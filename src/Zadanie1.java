@@ -19,7 +19,7 @@ class Car {
     }
 }
 
-public class App {
+public class Zadanie1 {
     public static void main(String[] args) {
         // Tworze nowy obiekt uzywajac klasy Car
         Car myNewCar = new Car();
